@@ -1,0 +1,1170 @@
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+value: 200.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+value: 100.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300.0
+value: 300.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 300
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300
+value: 300.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+value: 200.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100.0
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100.0
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200.0
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200.0
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200.0
+value: 200.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100.0
+value: 100.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2.0
+index: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2.0
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: *
+index: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: *
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2.0
+value: 2.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300.0
+value: 300.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 600.0
+value: 600.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: null
+operation: UNKNOWN
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: 
+operation: UNKNOWN
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: x
+operation: UNKNOWN
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: unknown
+operation: UNKNOWN
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: -
+operation: MINUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: /
+operation: DIVIDE
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: null
+value: NaN
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 
+value: NaN
+[ERROR] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 12345.0
+value: 12345.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: null
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: X
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100s
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "token"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Bach"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Beethoven"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Chopin"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Handel"
+numItems: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Lizst"
+numItems: 5
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Mozart"
+numItems: 6
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "-"
+numItems: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+value: 1.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: -
+index: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: -
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: -
+operation: MINUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "One"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Two"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Three"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: One
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: One
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: One
+operation: UNKNOWN
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "One"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Two"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "Three"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: One
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: One
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: One
+operation: UNKNOWN
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+value: 1.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3.0
+value: 3.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "*"
+numItems: 5
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: *
+index: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: *
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5.0
+value: 5.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+value: 1.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5.0
+value: 5.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "4"
+numItems: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "5"
+numItems: 5
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 6
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.parser.DefaultRPNParser]   token: "*"
+numItems: 7
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 0
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 1
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 4
+index: 3
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 4
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5
+index: 4
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 5
+result:true
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 5
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5
+value: 5.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 4
+value: 4.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: *
+index: 6
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: *
+result:false
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 9.0
+value: 9.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5.0
+value: 5.000000
+[DEBUG] [2018-06-11 17:53:06][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 45.0
+value: 45.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: null
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: X
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100s
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: null
+value: NaN
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 
+value: NaN
+[ERROR] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 12345.0
+value: 12345.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 300
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300
+value: 300.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+value: 200.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: null
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: 
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: x
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: unknown
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: -
+operation: MINUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: /
+operation: DIVIDE
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200
+value: 200.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100
+value: 100.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300.0
+value: 300.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100.0
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 100.0
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200.0
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 200.0
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 200.0
+value: 200.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 100.0
+value: 100.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2.0
+index: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2.0
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: *
+index: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: *
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2.0
+value: 2.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 300.0
+value: 300.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 600.0
+value: 600.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Bach"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Beethoven"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Chopin"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Handel"
+numItems: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Lizst"
+numItems: 5
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Mozart"
+numItems: 6
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "token"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "-"
+numItems: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+value: 1.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: -
+index: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: -
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: -
+operation: MINUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "One"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Two"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Three"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: One
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: One
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: One
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "One"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Two"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "Three"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: One
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: One
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: One
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+value: 1.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3.0
+value: 3.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "1"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "*"
+numItems: 5
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 1
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: *
+index: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: *
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5.0
+value: 5.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+value: 1.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5.0
+value: 5.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "2"
+numItems: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "3"
+numItems: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "4"
+numItems: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "5"
+numItems: 5
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 6
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.parser.DefaultRPNParser]   token: "*"
+numItems: 7
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+index: 0
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 2
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+index: 1
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 3
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 4
+index: 3
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 4
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5
+index: 4
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 5
+result:true
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 5
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5
+value: 5.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 4
+value: 4.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: *
+index: 6
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: *
+result:false
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: *
+operation: TIMES
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 9.0
+value: 9.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5.0
+value: 5.000000
+[DEBUG] [2018-06-11 18:00:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 45.0
+value: 45.000000
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.parser.DefaultRPNParser]   token: "4"
+numItems: 1
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.parser.DefaultRPNParser]   token: "6"
+numItems: 2
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.parser.DefaultRPNParser]   token: "+"
+numItems: 3
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.parser.DefaultRPNParser]   token: "-"
+numItems: 4
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 4
+index: 0
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 4
+result:true
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 6
+index: 1
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 6
+result:true
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: +
+index: 2
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: +
+result:false
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 6
+value: 6.000000
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 4
+value: 4.000000
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: -
+index: 3
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: -
+result:false
+[DEBUG] [2018-06-11 18:02:53][com.zw.rpn.evaluator.DefaultRPNEvaluator]    token: -
+operation: MINUS
+[DEBUG] [2018-06-11 18:03:36][com.zw.rpn.parser.DefaultRPNParser]   token: "6"
+numItems: 1
+[DEBUG] [2018-06-11 18:03:36][com.zw.rpn.parser.DefaultRPNParser]   token: "5"
+numItems: 2
+[DEBUG] [2018-06-11 18:03:36][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 6
+index: 0
+[DEBUG] [2018-06-11 18:03:36][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 6
+result:true
+[DEBUG] [2018-06-11 18:03:36][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5
+index: 1
+[DEBUG] [2018-06-11 18:03:36][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 5
+result:true
+[DEBUG] [2018-06-11 18:06:36][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "5"
+numItems: 1
+[DEBUG] [2018-06-11 18:06:36][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "6"
+numItems: 2
+[DEBUG] [2018-06-11 18:06:36][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5
+index: 0
+[DEBUG] [2018-06-11 18:06:36][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 5
+result:true
+[DEBUG] [2018-06-11 18:06:36][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6
+index: 1
+[DEBUG] [2018-06-11 18:06:36][com.zw.rpn.evaluator.DefaultRPNEvaluator] token: 6
+result:true
+[DEBUG] [2018-06-11 18:09:07][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "5"
+numItems: 1
+[DEBUG] [2018-06-11 18:09:07][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "6"
+numItems: 2
+[DEBUG] [2018-06-11 18:09:07][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5
+index: 0
+[DEBUG] [2018-06-11 18:09:07][com.zw.rpn.evaluator.DefaultRPNEvaluator] item: 5
+result:true
+[DEBUG] [2018-06-11 18:09:07][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6
+index: 1
+[DEBUG] [2018-06-11 18:09:07][com.zw.rpn.evaluator.DefaultRPNEvaluator] item: 6
+result:true
+[DEBUG] [2018-06-11 18:09:34][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "5"   numItems: 1
+[DEBUG] [2018-06-11 18:09:34][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "6"   numItems: 2
+[DEBUG] [2018-06-11 18:09:34][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5
+index: 0
+[DEBUG] [2018-06-11 18:09:34][com.zw.rpn.evaluator.DefaultRPNEvaluator] item: 5
+result:true
+[DEBUG] [2018-06-11 18:09:34][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6
+index: 1
+[DEBUG] [2018-06-11 18:09:34][com.zw.rpn.evaluator.DefaultRPNEvaluator] item: 6
+result:true
+[DEBUG] [2018-06-11 18:10:10][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "5"   numItems: 1
+[DEBUG] [2018-06-11 18:10:10][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "6"   numItems: 2
+[DEBUG] [2018-06-11 18:10:10][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 0
+[DEBUG] [2018-06-11 18:10:10][com.zw.rpn.evaluator.DefaultRPNEvaluator] item: 5  result:true
+[DEBUG] [2018-06-11 18:10:10][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6  index: 1
+[DEBUG] [2018-06-11 18:10:10][com.zw.rpn.evaluator.DefaultRPNEvaluator] item: 6  result:true
+[DEBUG] [2018-06-11 18:10:59][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "5"   numItems: 1
+[DEBUG] [2018-06-11 18:10:59][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "6"   numItems: 2
+[DEBUG] [2018-06-11 18:10:59][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 0
+[DEBUG] [2018-06-11 18:10:59][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 5  result:true
+[DEBUG] [2018-06-11 18:10:59][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6  index: 1
+[DEBUG] [2018-06-11 18:10:59][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 6  result:true
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "5"   numItems: 1
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "6"   numItems: 2
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.parser.DefaultRPNParser]   stack(parse): "="   numItems: 3
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 0
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 5  result:true
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6  index: 1
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 6  result:true
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: =  index: 2
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : =  result:false
+[DEBUG] [2018-06-11 18:11:10][com.zw.rpn.evaluator.DefaultRPNEvaluator]    Operation: =
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:11:59][com.zw.rpn.parser.DefaultRPNParser]   parse stack item: "5"   numItems: 1
+[DEBUG] [2018-06-11 18:11:59][com.zw.rpn.parser.DefaultRPNParser]   parse stack item: "6"   numItems: 2
+[DEBUG] [2018-06-11 18:11:59][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 0
+[DEBUG] [2018-06-11 18:11:59][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 5  result:true
+[DEBUG] [2018-06-11 18:11:59][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6  index: 1
+[DEBUG] [2018-06-11 18:11:59][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 6  result:true
+[DEBUG] [2018-06-11 18:13:07][com.zw.rpn.parser.DefaultRPNParser]   stack : "[5, 6, 7]"   numItems: 3
+[DEBUG] [2018-06-11 18:13:07][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 0
+[DEBUG] [2018-06-11 18:13:07][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 5  result:true
+[DEBUG] [2018-06-11 18:13:07][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6  index: 1
+[DEBUG] [2018-06-11 18:13:07][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 6  result:true
+[DEBUG] [2018-06-11 18:13:07][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 7  index: 2
+[DEBUG] [2018-06-11 18:13:07][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 7  result:true
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.parser.DefaultRPNParser]   stack : "[5, 6, +]"   numItems: 3
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 0
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 5  result:true
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 6  index: 1
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 6  result:true
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: +  index: 2
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : +  result:false
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]    Operation: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 6
+value: 6.000000
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5
+value: 5.000000
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 11.0
+value: 11.000000
+[DEBUG] [2018-06-11 18:26:12][com.zw.rpn.calculator.DefaultRPNCalculator]line: 5 6 +
+value: 11.000000
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 1  index: 0
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 1  result:true
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 2  index: 1
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 2  result:true
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 3  index: 2
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 3  result:true
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: *  index: 3
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : *  result:false
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]    Operation: *
+operation: TIMES
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 18:27:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 1  index: 0
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 1  result:true
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 2  index: 1
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 2  result:true
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 3  index: 2
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 3  result:true
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: *  index: 3
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : *  result:false
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]    Operation: *
+operation: TIMES
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 3
+value: 3.000000
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 2
+value: 2.000000
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 4
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : 5  result:true
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: +  index: 5
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : +  result:false
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]    Operation: +
+operation: PLUS
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 5
+value: 5.000000
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 6.0
+value: 6.000000
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: *  index: 6
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : *  result:false
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]    Operation: *
+operation: TIMES
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 11.0
+value: 11.000000
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]token: 1
+value: 1.000000
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: *6  index: 7
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator] item is value : *6  result:false
+[DEBUG] [2018-06-11 18:28:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]    Operation: *6
+operation: UNKNOWN
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 1  index: 0
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 2  index: 1
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 3  index: 2
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: *  index: 3
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 5  index: 4
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: +  index: 5
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: *  index: 6
+[DEBUG] [2018-06-11 18:30:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: *  index: 7
+[DEBUG] [2018-06-11 18:33:34][com.zw.rpn.parser.DefaultRPNParser]   stack : "[123*5+**65]" 1
+[DEBUG] [2018-06-11 18:34:54][com.zw.rpn.parser.DefaultRPNParser]   stack : "[123*5+*6*5]" 1
+[DEBUG] [2018-06-11 18:35:24][com.zw.rpn.parser.DefaultRPNParser]   stack : "[123*5+*]" 1
+[DEBUG] [2018-06-11 18:35:49][com.zw.rpn.parser.DefaultRPNParser]   stack : "[123, *, +, *]" 4
+[DEBUG] [2018-06-11 18:36:34][com.zw.rpn.parser.DefaultRPNParser]   stack : "[123, *, +]" 3
+[DEBUG] [2018-06-11 18:36:47][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +, *]" 6
+[DEBUG] [2018-06-11 18:37:03][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 5
+[DEBUG] [2018-06-11 18:37:03][com.zw.rpn.calculator.DefaultRPNCalculator]line: 1 2 3 * +
+value: 7.000000
+[DEBUG] [2018-06-11 18:39:47][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 5
+[DEBUG] [2018-06-11 18:39:47][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 1 2 3 * + 7.000000
+[DEBUG] [2018-06-11 18:41:05][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3]" 3
+[DEBUG] [2018-06-11 18:42:28][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3]" 3
+[DEBUG] [2018-06-11 18:42:47][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 5
+[DEBUG] [2018-06-11 18:43:21][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 5
+[DEBUG] [2018-06-11 18:43:21][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 18:43:52][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 5
+[DEBUG] [2018-06-11 18:43:52][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 18:44:46][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 
+[DEBUG] [2018-06-11 18:44:46][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 18:45:23][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, 4]" 
+[DEBUG] [2018-06-11 18:45:56][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 18:45:56][com.zw.rpn.calculator.DefaultRPNCalculator]stack: NaN
+[DEBUG] [2018-06-11 18:49:20][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 18:49:28][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 
+[DEBUG] [2018-06-11 18:51:14][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 18:51:23][com.zw.rpn.parser.DefaultRPNParser]   stack : "[1, 2, 3, *, +]" 
+[DEBUG] [2018-06-11 18:51:23][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 7.000000
+[DEBUG] [2018-06-11 18:52:35][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 18:52:48][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 7.000000
+[DEBUG] [2018-06-11 18:53:03][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 11.000000
+[DEBUG] [2018-06-11 18:58:40][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 120.000000
+[DEBUG] [2018-06-11 19:00:17][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 11.000000
+[DEBUG] [2018-06-11 19:02:48][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2]" 
+[DEBUG] [2018-06-11 19:02:55][com.zw.rpn.evaluator.DefaultRPNEvaluator]stack: 1.000000
+[DEBUG] [2018-06-11 19:03:46][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 19:06:39][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 1.000000
+[DEBUG] [2018-06-11 19:07:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2]" 
+[DEBUG] [2018-06-11 19:07:12][com.zw.rpn.calculator.DefaultRPNCalculator]stack: NaN
+[DEBUG] [2018-06-11 19:11:07][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 19:11:07][com.zw.rpn.calculator.DefaultRPNCalculator]stack: NaN
+[DEBUG] [2018-06-11 19:11:51][com.zw.rpn.calculator.DefaultRPNCalculator]stack: NaN
+[DEBUG] [2018-06-11 19:13:36][com.zw.rpn.calculator.DefaultRPNCalculator]stack: NaN
+[DEBUG] [2018-06-11 19:13:48][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2]" 
+[DEBUG] [2018-06-11 19:13:48][com.zw.rpn.calculator.DefaultRPNCalculator]stack: NaN
+[DEBUG] [2018-06-11 19:13:52][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 19:13:52][com.zw.rpn.calculator.DefaultRPNCalculator]stack: NaN
+[DEBUG] [2018-06-11 19:15:21][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2]" 
+[DEBUG] [2018-06-11 19:16:54][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2]" 
+[DEBUG] [2018-06-11 19:17:04][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 19:17:24][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 35.000000
+[DEBUG] [2018-06-11 19:21:54][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 11.000000
+[DEBUG] [2018-06-11 19:36:50][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 11.000000
+[DEBUG] [2018-06-11 19:37:08][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[2, 8, 0, 9]" 
+[DEBUG] [2018-06-11 19:37:15][com.zw.rpn.calculator.DefaultRPNCalculator]stack: -1.000000
+[DEBUG] [2018-06-11 19:37:30][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[5, 4, 3, 2, /]" 
+[DEBUG] [2018-06-11 19:37:30][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 1.500000
+[DEBUG] [2018-06-11 19:37:52][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[2, 3, 4, 5, +]" 
+[DEBUG] [2018-06-11 19:37:52][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 19:46:19][com.zw.rpn.calculator.DefaultRPNCalculator]stack: -13.000000
+[DEBUG] [2018-06-11 19:50:41][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3]" 
+[DEBUG] [2018-06-11 19:51:04][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 6.000000
+[DEBUG] [2018-06-11 19:51:15][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, +]" 
+[DEBUG] [2018-06-11 19:51:15][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 5.000000
+[DEBUG] [2018-06-11 19:53:38][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, *, 4, +, 5]" 
+[DEBUG] [2018-06-11 19:53:38][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 19:53:42][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2]" 
+[DEBUG] [2018-06-11 19:53:54][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, 4, +]" 
+[DEBUG] [2018-06-11 19:53:54][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:04:47][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, 4, +]" 
+[DEBUG] [2018-06-11 20:04:47][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:10:41][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, 4, +]" 
+[DEBUG] [2018-06-11 20:10:41][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:11:41][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, 4, +]" 
+[DEBUG] [2018-06-11 20:11:41][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:15:36][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, 4, +]" 
+[DEBUG] [2018-06-11 20:15:36][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:16:34][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "[1, 2, 3, 4, +]" 
+[DEBUG] [2018-06-11 20:16:34][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:16:36][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 3.000000
+[DEBUG] [2018-06-11 20:18:35][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "com.zw.rpn.RPNStackModel@7b23ec81" 
+[DEBUG] [2018-06-11 20:18:35][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:19:32][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "com.zw.rpn.RPNStackModel@7b23ec81" 
+[DEBUG] [2018-06-11 20:19:32][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:19:34][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 3.000000
+[DEBUG] [2018-06-11 20:22:25][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "com.zw.rpn.RPNStackModel@61a485d2" 
+[DEBUG] [2018-06-11 20:22:30][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:25:51][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "com.zw.rpn.RPNStackModel@61a485d2" 
+[DEBUG] [2018-06-11 20:25:59][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:26:35][com.zw.rpn.evaluator.DefaultRPNEvaluator]   stack : "com.zw.rpn.RPNStackModel@61a485d2" 
+[DEBUG] [2018-06-11 20:26:35][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 20:54:46][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 20:55:01][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 3.000000
+[DEBUG] [2018-06-11 20:56:11][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 21:14:50][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 21:15:19][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 21:15:26][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 21:20:01][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 21:20:41][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 21:20:48][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 21:20:57][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 21:22:32][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 21:22:34][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 21:22:35][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:12:51][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 22:12:54][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 22:12:56][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:14:23][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 22:14:25][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 22:14:26][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:23:16][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 22:23:18][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 22:23:30][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 7.000000
+[DEBUG] [2018-06-11 22:23:32][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 22:23:34][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:23:57][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:24:56][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 15.000000
+[DEBUG] [2018-06-11 22:25:01][com.zw.rpn.calculator.DefaultRPNCalculator]stack: -14.000000
+[DEBUG] [2018-06-11 22:25:08][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 4.000000
+[DEBUG] [2018-06-11 22:25:23][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 5.000000
+[DEBUG] [2018-06-11 22:27:35][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:27:58][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 0.000000
+[DEBUG] [2018-06-11 22:28:01][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:28:03][com.zw.rpn.calculator.DefaultRPNCalculator]stack: -9.000000
+[DEBUG] [2018-06-11 22:28:09][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 1.000000
+[DEBUG] [2018-06-11 22:28:18][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 5.000000
+[DEBUG] [2018-06-11 22:28:28][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 22:29:47][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 10.000000
+[DEBUG] [2018-06-11 22:29:51][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 22:37:23][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 3.000000
+[DEBUG] [2018-06-11 22:37:32][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 8.000000
+[DEBUG] [2018-06-11 22:37:45][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 9.000000
+[DEBUG] [2018-06-11 22:38:26][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 14.000000
+[DEBUG] [2018-06-11 22:38:59][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 16.000000
+[DEBUG] [2018-06-11 22:39:40][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 4.000000
+[DEBUG] [2018-06-11 22:39:48][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 2.000000
+[DEBUG] [2018-06-11 22:39:54][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 1.414214
+[ERROR] [2018-06-11 22:42:23][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 22:42:23][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[ERROR] [2018-06-11 22:46:34][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 22:46:34][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[ERROR] [2018-06-11 22:48:17][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 22:48:17][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[ERROR] [2018-06-11 22:50:57][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 22:50:57][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[ERROR] [2018-06-11 22:56:37][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 22:56:37][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[ERROR] [2018-06-11 22:58:57][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 22:58:57][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[ERROR] [2018-06-11 22:59:49][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 23:04:59][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 23:06:12][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[ERROR] [2018-06-11 23:07:34][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "blue"
+[ERROR] [2018-06-11 23:07:34][com.zw.rpn.evaluator.DefaultRPNEvaluator]Error: java.lang.NumberFormatException: For input string: "123x"
+[DEBUG] [2018-06-11 23:11:45][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 5.000000
+[DEBUG] [2018-06-11 23:11:57][com.zw.rpn.calculator.DefaultRPNCalculator]stack: -4.000000
+[DEBUG] [2018-06-11 23:12:06][com.zw.rpn.calculator.DefaultRPNCalculator]stack: 1.000000
